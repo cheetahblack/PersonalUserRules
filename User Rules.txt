@@ -1,0 +1,144 @@
+@@||192.168.1.200^$important,document
+@@||abcbullion.com.au^$important,document
+@@||allcoinvalues.com^$important,document
+@@||apply.zip.co^$important,document
+@@||athleticgreens.com^$important,document
+@@||au.nextdoor.com^$important,document
+@@||australiansafetysigns.net.au^$important,document
+@@||auth.services.adobe.com^$important,document
+@@||awekas.at^$important,document
+@@||bullionlist.com.au^$important,document
+@@||bunnings.com.au^$important,document
+@@||car.joinmrblack.com^$important,document
+@@||cfs.sa.gov.au^$important,document
+@@||cheapcigarettes.com.au^$important,document
+@@||checkwxapi.com^$important,document
+@@||chromeactions.com^$important,document
+@@||codepen.io^$important,document
+@@||commbank.com.au^$important,document
+@@||darkness.app^$important,document
+@@||dohtheme.com^$important,document
+@@||domainconnect.plesk.com^$important,document
+@@||downies.com^$important,document
+@@||edisons.com.au^$important,document
+@@||email-link.adtidy.org^$important,document
+@@||email.mail2.smartrmail.co^$important,document
+@@||extrassl.actalis.it^$important,document
+@@||feedback.goto.com^$important,document
+@@||geonames.org^$important,document
+@@||giphy.com^$important,document
+@@||hotcleaner.com^$important,document
+@@||id.plesk.com^$important,document
+@@||igrglobal.com^$important,document
+@@||ingest.sentry.io/api^$important,third-party
+@@||jewelry-auctioned.com^$important,document
+@@||jmb.com^$important,document
+@@||joinmrblack.com^$important,document
+@@||lastpass.com^$important,document
+@@||lightningmaps.org^$important,document
+@@||manage.kmail-lists.com^$important,document
+@@||meteomap.cloud^$important,document
+@@||monitoring.platform360.io^$important,document
+@@||my.aussiebroadband.com.au^$important,document
+@@||my.noip.com^$important,document
+@@||mycinema.pro^$important,document
+@@||mydrive.tomtom.com^$important,document
+@@||myservices.telstra.com.au^$important,document
+@@||noip.com^$important,document
+@@||nordaccount.com^$important,document
+@@||old3.rlsbb.ru^$important,document
+@@||outage.apps.sapowernetworks.com.au^$important,document
+@@||panel.joinmrblack.com^$important,document
+@@||partedmagic.com^$important,document
+@@||patreon.com^$important,document
+@@||perthmint.com^$important,document
+@@||pmb2cprd.b2clogin.com^$important,document
+@@||portal.afterpay.com^$important,document
+@@||precisionlubrication.com^$important,document
+@@||pws.joinmrblack.com^$important,document
+@@||pwsweather.com^$important,document
+@@||railpage.com.au^$important,document
+@@||reddit.com^$important,document
+@@||secureacceptance.cybersource.com^$important,document
+@@||setiathome.berkeley.edu^$important,document
+@@||sparesbox.com.au^$important,document
+@@||ssl-tools.net^$important,document
+@@||sydneysolvents.com.au^$important,document
+@@||sync.com^$important,document
+@@||t.co^$important,document
+@@||thegoodguys.com.au^$important,document
+@@||tradingview.com^$important,document
+@@||tunefab.com^$important,document
+@@||usersdrive.com^$important,document
+@@||vimeo.com^$important,document
+@@||vistaprint.com.au^$important,document
+@@||weather-watch.com^$important,document
+@@||weatherzone.com.au^$important,document
+@@||webwarehouse.neto.com.au^$important,document
+@@||wishapplist.monwindows.com^$important,document
+@@||wunderground.com^$important,document
+@@||api.checkwx.com^$important
+@@||recharge.telstra.com.au^$important,document
+@@||map.purpleair.com^$important,document
+@@||develop.purpleair.com^$important,document
+@@||commerce.adobe.com^$important,document
+@@||account.termius.com^$important,document
+@@||support.haltech.com^$important,document
+@@||batterybrands.com.au^$important,document
+@@||spb.mymedia.delivery^$important,document
+@@||hampdon.com.au^$important,document
+@@||pirate-weather.apiable.io^$important,document
+boincstats.com###main > div > div:nth-child(14)
+boincstats.com###babbe430e3e485965c1a419dd0ca1dba
+boincstats.com###header
+boincstats.com###header > a.logo:first-child
+boincstats.com###header > div.orville:last-child
+boincstats.com###header > div:last-child
+boincstats.com###main > div.inner > div.center:last-child
+boincstats.com###main > div.inner > div.fltR:nth-child(4) > a > img
+goldprice.org###block-goldprice-goldprice-three-system-main > div.row.mx-0 > article.node.node--type-gp-charts-page.node--view-mode-full > div.node__content > div.layout.layout--onecol:nth-child(4) > div.layout__region.layout__region--content > div.block.block-gpx-charts.block-gpx-charts-gpx-4-flag-block-gpo:first-child
+goldprice.org###block-goldprice-goldprice-three-system-main > div.row.mx-0 > article.node.node--type-gp-charts-page.node--view-mode-full > div.node__content > div.layout.layout--threecol-section.layout--threecol-section--33-34-33.ounce-wrapper1:first-child > div.layout__region.layout__region--third:last-child
+goldprice.org###block-goldprice-goldprice-three-system-main > div.row.mx-0 > article.node.node--type-gp-charts-page.node--view-mode-full > div.node__content > div.layout.layout--threecol-section.layout--threecol-section--33-34-33.ounce-wrapper1:first-child > div.layout__region.layout__region--third:last-child > div.block.block-block-content.block-block-contentc86fcbf6-5b59-4a03-be0a-a0c3f51281df > div.clearfix.text-formatted.field.field--name-body.field--type-text-with-summary.field--label-hidden.field__item
+goldprice.org###block-goldprice-goldprice-three-system-main > div.row.mx-0 > article.node.node--type-gp-charts-page.node--view-mode-full > div.node__content > div.layout.layout--twocol-section.layout--twocol-section--67-33.ounce-wrapper2:nth-child(2) > div.layout__region.layout__region--first:first-child > div.block.block-jmb-ads.block-jmb-content-two-block:first-child > div.jmb-content-zone > div.jmb-content-wrapper
+goldprice.org###block-goldprice-gpxholdings > section.holding > div.container > div.row > div.col-3.col-md-3.holding-right.text-right:nth-child(2)
+goldprice.org###bsa-zone_1663772181138-9_123456 > p.col-12.mar-top-10.bsa
+helpguide.org###XFRQUDFG
+helpguide.org###ad-122361 > div.adsanity-inner
+helpguide.org###ad-122361 > div.adsanity-inner > div.adsanity-gati > a > img.no-lazy-load.remove-lazy-loading.wp-post-image
+helpguide.org###article-reference-accordion
+helpguide.org###sticky-footer
+helpguide.org###sticky-top > div > aside.sidebar
+helpguide.org###sticky-top > div > aside.sidebar > section.widget.rp4wp_related_posts_widget-2.widget_rp4wp_related_posts_widget:first-child > div.rp4wp-related-posts.rp4wp-related-post > ul.rp4wp-posts-list:last-child
+helpguide.org###ui-id-1
+helpguide.org##div.off-canvas-content:nth-child(5) > div.wrap.container.grid-container > div.content.grid-x.grid-margin-x > div.cell.large-8:first-child > main.main > div.hg-reusable-block.hg-reusable-block-style-2:nth-child(10)
+helpguide.org##div.off-canvas-content:nth-child(5) > div.wrap.container.grid-container > div.content.grid-x.grid-margin-x > div.cell.large-8:first-child > main.main > figure.wp-block-image:nth-child(4) > img
+helpguide.org##div.off-canvas-content:nth-child(5) > div.wrap.container.grid-container > div.content.grid-x.grid-margin-x > div.cell.large-8:first-child > main.main > p.has-text-align-right.has-small-font-size:nth-child(39)
+helpguide.org##div.off-canvas-content:nth-child(5) > div.wrap.container.grid-container > div.content.grid-x.grid-margin-x > div.cell.large-8:first-child > main.main > p.has-text-align-right.has-small-font-size:nth-child(48)
+helpguide.org##div.off-canvas-content:nth-child(5) > div.wrap.container.grid-container > div.content.grid-x.grid-margin-x > div.cell.large-8:first-child > main.main > p:nth-child(68)
+helpguide.org##div.off-canvas-content:nth-child(5) > div.wrap.container.grid-container > div.content.grid-x.grid-margin-x > div.cell.large-8:first-child > main.main > p:nth-child(69)
+helpguide.org##div.off-canvas-content:nth-child(5) > div.wrap.container.grid-container > div.content.grid-x.grid-margin-x > div.cell.large-4:last-child
+lightningmaps.org###Header
+lightningmaps.org###copyright
+lightningmaps.org###translation_info
+rlsbb.cc###search-2 > h2.widget-title:first-child
+rlsbb.cc###secondary > aside.widget.widget_text:first-child > div.textwidget:last-child > center:first-child > p
+rlsbb.cc###secondary > aside.widget.widget_text:first-child > h2.widget-title:first-child
+rlsbb.cc###secondary > aside.widget.widget_text:nth-child(3)
+rlsbb.cc###text-11
+rlsbb.cc###text-9
+rlsbb.cc###text-5
+rlsbb.cc###text-3
+scrolller.com###root > div.rnc__base:first-child > div.rnc__notification-container--bottom-center:last-child > div.rnc__notification:first-child
+scrolller.com###root > div.rnc__base:first-child > div.rnc__notification-container--bottom-center:last-child > div.rnc__notification:first-child > div.animate__animated.animate__bounceIn.rnc__notification-item.rnc__notification-item--danger > div.rnc__notification-content
+scrolller.com###root > div.rnc__base:first-child > div.rnc__notification-container--bottom-center:last-child > div.rnc__notification:last-child
+scrolller.com###root > div.rnc__base:first-child > div.rnc__notification-container--bottom-center:last-child > div.rnc__notification:last-child > div.animate__animated.animate__bounceIn.rnc__notification-item.rnc__notification-item--danger > div.rnc__notification-content
+silverprice.org###block-silverprice-silverprice-three-system-main > div.row.mx-0.check > article.node.node--type-page.node--view-mode-full > div.node__content:last-child > div.layout.layout--onecol:nth-child(5) > div.layout__region.layout__region--content > div.block.block-gpx-charts.block-gpx-charts-gpx-4-flag-block-gpo > section.price-with-flag.col-12 > div.row.inner
+spotify.com###spoti-root > div.sc-ganJan.KhOyB > main:nth-child(2) > section.sc-iCoGMd.lCoiR.sc-khIgEk.bMbDVx:first-child > article.sc-fujyAs.kRagvT > header.sc-hTRkXV.enlJuL > div.sc-hhIiOg.kDbZJB:last-child > div.sc-eCApnc.jvbCDp.sc-eirqVv.fKtjIT
+youtube.com###clarify-box > content-title style-scope ytd-clarification-renderer
+youtube.com###clarify-box > ytd-clarification-renderer.style-scope.ytd-watch-flexy
+youtube.com###contents > ytd-clarification-renderer.style-scope.ytd-item-section-renderer:first-child
+youtube.com###contents > ytd-info-panel-container-renderer.style-scope.ytd-item-section-renderer:nth-child(5)
+youtube.com###contents > ytd-reel-shelf-renderer.style-scope.ytd-item-section-renderer:nth-child(3)
+youtube.com###contents > ytd-reel-shelf-renderer.style-scope.ytd-item-section-renderer:nth-child(14)
+youtube.com###contents > ytd-reel-shelf-renderer.style-scope.ytd-item-section-renderer:nth-child(20)
+youtube.com##:xpath(//ytd-grid-video-renderer[descendant::a[contains(@href,"shorts")] and not(contains(@class,"shelf"))])
